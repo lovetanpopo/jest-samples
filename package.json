@@ -1,0 +1,14 @@
+{
+  "name": "jest-samples",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.0",
+    "typescript": "^4.0.3"
+  }
+}
